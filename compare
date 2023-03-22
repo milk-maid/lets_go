@@ -1,0 +1,15 @@
+def: Used to define a new function or procedure.
+let: Used to declare and assign a new variable.
+const: Used to declare a constant value that cannot be modified.
+if: Used to specify a conditional statement.
+else: Used to specify the alternative branch of a conditional statement.
+for: Used to specify a loop that iterates over a range of values.
+while: Used to specify a loop that continues while a condition is true.
+break: Used to exit a loop early.
+continue: Used to skip to the next iteration of a loop.
+return: Used to specify the return value of a function or procedure.
+debug_print: Used to print a value to the console for debugging purposes.
+felt: Used to specify a 256-bit unsigned integer data type.
+bit: Used to specify a boolean data type.
+true and false: Used to represent boolean true and false values.
+sqrt: Used to compute the square root of a number.

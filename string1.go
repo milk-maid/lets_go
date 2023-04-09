@@ -10,8 +10,9 @@ func main() {
 	fmt.Printf("%T\n", s)
 
 	bs := []byte(s)
-	fmt.Println(bs)
-	fmt.Printf("%T\n", bs)
+  fmt.Println("the bytes array: ", bs)
+  fmt.Printf("datatype of bytes in go: %T\n", bs)
+  fmt.Printf("the byte in hex value: %#x\n", bs)
 
 	for i := 0; i < len(s); i++ {
 		fmt.Printf("%#U ", s[i])
